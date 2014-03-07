@@ -1,0 +1,37 @@
+body {
+
+}
+
+			@font-face {
+				font-family: Vegur;
+				src: url('vegur-light.otf');
+				}
+				
+			.baseClass{
+				color: #00FFCC;
+				font-size: 20px;
+				font-family: Vegur;
+				position: relative;
+				display: inline;
+				float: left;
+				padding: 5px;
+				margin: 5px;
+				height: 5px;
+			}
+			.titleClass{
+				margin: 50px;
+				
+			}
+			.h1{
+				color: black;
+				margin: 5px;
+				font-family: Vegur;
+				text-align: center;
+				padding: 5px;
+			}
+			.h3{
+				color: black;
+				margin: 5px;
+				font-family: Vegur;
+				text-align: center;
+			}
